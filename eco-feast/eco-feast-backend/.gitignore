@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# environment variables
+.env
+
+# uploads
+/uploads
+
+# logs
+*.log
+
+# IDE
+.vscode
+.idea 
